@@ -1,0 +1,21 @@
+# Python (Clean code standards)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data Science & Engineering
+.ipynb_checkpoints
+*.csv
+*.json
+*.pkl
+*.pickle
+
+# Build Tools (Java/Maven)
+target/
+*.class
+
+# Operating Systems (macOS/Windows/Linux)
+.DS_Store
+Thumbs.db
